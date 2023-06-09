@@ -1,0 +1,13 @@
+.heading{
+    margin: 20px;
+}
+
+.heading:hover{
+    color: red !important;
+}
+
+@media screen and (max-width: 768px){
+    .heading{
+        margin: 0 ;
+    }
+}
